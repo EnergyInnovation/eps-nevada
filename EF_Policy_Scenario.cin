@@ -1,5 +1,4 @@
 Additional EV Subsidy Percentage[passenger,LDVs] = 0.08
-Additional EV Subsidy Percentage[freight,LDVs] = 0.08
 Additional LCFS Percentage = 0.2
 Additional Minimum Required EV Sales Percentage[passenger,LDVs] = 0.32
 Additional Minimum Required EV Sales Percentage[passenger,HDVs] = 0.55
