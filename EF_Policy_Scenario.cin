@@ -3,7 +3,6 @@ Additional EV Subsidy Percentage[freight,LDVs] = 0.08
 Additional LCFS Percentage = 0.2
 Additional Minimum Required EV Sales Percentage[passenger,LDVs] = 0.32
 Additional Minimum Required EV Sales Percentage[passenger,HDVs] = 0.55
-Additional Minimum Required EV Sales Percentage[freight,LDVs] = 0.32
 Additional Minimum Required EV Sales Percentage[freight,HDVs] = 0.55
 EV Charger Deployment = 100
 Fraction of New Bldg Components Shifted to Other Fuels[heating,urban residential] = 0.8
