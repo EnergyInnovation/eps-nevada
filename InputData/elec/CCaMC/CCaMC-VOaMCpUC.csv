@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Variable O&M ($/MWh),preexisting retiring,preexisting nonretiring,newly built,,,,,
+=======
+﻿Variable O&M ($/MWh),preexisting retiring,preexisting nonretiring,newly built,,,,,
+>>>>>>> master
 coal,3.63,0,6.33,,,,,
 natural gas nonpeaker,3.60,0,1.98,,,,,
 nuclear,0.15,0,2.12,,,,,
@@ -14,4 +18,8 @@ lignite,6.14,0,10.73,,,,,
 offshore wind,0,0,0,,,,,
 crude oil,2.21,0,2.21,,,,,
 heavy or residual fuel oil,2.21,0,2.21,,,,,
+<<<<<<< HEAD
 municipal solid waste,6.75,0,5.54,,,,,
+=======
+municipal solid waste,6.75,0,5.54,,,,,
+>>>>>>> master
