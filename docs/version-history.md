@@ -1,8 +1,8 @@
 ---
 layout: page
-title:	"Minnesota EPS Version History"
+title:	"Nevada EPS Version History"
 ---
-This page tracks updates that have been made with each version of the Minnesota Energy Policy Simulator.
+This page tracks updates that have been made with each version of the Nevada Energy Policy Simulator.
 
 ### **{version number} - {release date}**
 

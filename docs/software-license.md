@@ -9,11 +9,11 @@ Note that this license applies to the EPS, not to Vensim.  Vensim is commercial 
 
 ## Image Credits
 
-Waterfall at Beaver Bay, Minnesota
+Red Rock Canyon, Nevada
 
-[Andrew Ling](https://unsplash.com/@linginit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+[Daniel Halseth](https://unsplash.com/@dhalseth/portfolio)
 
-[https://unsplash.com/photos/_6yj0U-Ty1M](https://unsplash.com/photos/_6yj0U-Ty1M)
+[https://unsplash.com/photos/MHHEZA7qdcM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink](https://unsplash.com/photos/MHHEZA7qdcM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 License: Unsplash License
 
