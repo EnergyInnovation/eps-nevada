@@ -1,0 +1,12 @@
+Additional Minimum Required EV Sales Percentage[passenger,LDVs] = 0.07
+Policy Implementation Schedule Selector = 4
+Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,urban residential] = 0.07
+Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,rural residential] = 0.07
+Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,commercial] = 0.07
+Reduction in E Use Allowed by Component Eff Std[lighting,urban residential] = 0.07
+Reduction in E Use Allowed by Component Eff Std[lighting,rural residential] = 0.07
+Reduction in E Use Allowed by Component Eff Std[lighting,commercial] = 0.07
+Reduction in E Use Allowed by Component Eff Std[other component,urban residential] = 0.08
+Reduction in E Use Allowed by Component Eff Std[other component,rural residential] = 0.08
+Reduction in E Use Allowed by Component Eff Std[other component,commercial] = 0.08
+Fraction of Additional Grid Battery Storage Potential Achieved = 0.25
