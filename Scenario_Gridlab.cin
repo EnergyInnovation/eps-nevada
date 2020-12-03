@@ -1,0 +1,9 @@
+Additional Minimum Required EV Sales Percentage[passenger,LDVs] = 1
+Additional Minimum Required EV Sales Percentage[passenger,HDVs] = 0.4
+Additional Minimum Required EV Sales Percentage[freight,HDVs] = 0.4
+Fraction of New Bldg Components Shifted to Other Fuels[heating,urban residential] = 1
+Percentage Reduction of Separately Regulated Pollutants[HDVs,NOx] = 1
+Policy Implementation Schedule Selector = 5
+Reduction in E Use Allowed by Component Eff Std[envelope,urban residential] = 0.38
+Reduction in E Use Allowed by Component Eff Std[envelope,rural residential] = 0.38
+Renewable Portfolio Std Percentage = 1
