@@ -24,7 +24,6 @@ Industry Sector Fraction of Potential Additional CCS Achieved[iron and steel,pro
 Industry Sector Fraction of Potential Additional CCS Achieved[chemicals,process emissions] = 0.5
 Industry Sector Fraction of Potential Additional CCS Achieved[other industries,process emissions] = 0.5
 Perc Subsidy for Elec Capacity Construction[solar PV es] = 0.10672
-Perc Subsidy for Elec Capacity Construction[offshore wind es] = 0.2001
 Subsidy for Elec Production by Fuel[onshore wind es] = 10.005
 Fraction of Industrial Fuel Use Shifted to Other Fuels[cement and other carbonates,hard coal if] = 1
 Fraction of Industrial Fuel Use Shifted to Other Fuels[cement and other carbonates,natural gas if] = 1
