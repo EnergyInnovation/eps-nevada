@@ -72,6 +72,7 @@ Fraction of New Bldg Components Shifted to Other Fuels[appliances,rural resident
 Fraction of New Bldg Components Shifted to Other Fuels[appliances,commercial] = 1
 Fraction of New Bldg Components Shifted to Other Fuels[other component,commercial] = 1
 Percent of Travel Demand Shifted to Other Modes or Eliminated[passenger,LDVs] = 0.2
+Percent of Travel Demand Shifted to Other Modes or Eliminated[freight,HDVs] = 0.0625
 Percent Reduction in Nonenergy Nonagriculture Industry Product Demand[cement and other carbonates] = 0.05
 Percent Reduction in Nonenergy Nonagriculture Industry Product Demand[iron and steel] = 0.1
 Percentage Additional Improvement of Fuel Economy Std[passenger,LDVs] = 0.9
