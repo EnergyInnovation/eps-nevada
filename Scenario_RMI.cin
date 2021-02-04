@@ -1,5 +1,4 @@
 Additional Carbon Tax Rate[electricity sector] = 100
-Additional Carbon Tax Rate[industry sector] = 100
 Additional Minimum Required EV Sales Percentage[passenger,LDVs] = 1
 Additional Minimum Required EV Sales Percentage[passenger,HDVs] = 1
 Additional Minimum Required EV Sales Percentage[freight,LDVs] = 1
@@ -24,3 +23,4 @@ Renewable Portfolio Std Percentage = 1
 Share of Preexisting Buildings Subject to Retrofitting[urban residential] = 0.5
 Share of Preexisting Buildings Subject to Retrofitting[rural residential] = 0.5
 Share of Preexisting Buildings Subject to Retrofitting[commercial] = 0.5
+
