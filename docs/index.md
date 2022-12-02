@@ -13,7 +13,7 @@ The Nevada Energy Policy Simulator may be used on this website through your web 
 
 ## Documentation
 
-Documentation of source data, assumptions, and policy scenarios is available [here](https://github.com/Energy-Innovation/eps-nevada/raw/master/Nevada%20EPS%20Scenario%20Assumptions.pdf). Documentation of the model is available [here](https://us.energypolicy.solutions/docs/index.html).  Documentation of the model is not specific to any model version and therefore applies to both U.S. and Nevada versions of the Energy Policy Simulator.
+Documentation of source data, assumptions, and policy scenarios is available [here](https://github.com/Energy-Innovation/eps-nevada/raw/main/Nevada%20EPS%20Scenario%20Assumptions.pdf). Documentation of the model is available [here](https://us.energypolicy.solutions/docs/index.html).  Documentation of the model is not specific to any model version and therefore applies to both U.S. and Nevada versions of the Energy Policy Simulator.
 
 ## Other Information
 
