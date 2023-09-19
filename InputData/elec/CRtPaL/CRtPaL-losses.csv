@@ -1,25 +1,25 @@
 Unit: MW/($/MW),change in capacity
-hard coal,0.0035038883980311212
-natural gas steam turbine,0.004612953837314653
-natural gas combined cycle,0.02029267667299984
-nuclear,0.0
-hydro,0.013206355425128555
-onshore wind,0.0012711670499941517
-solar PV,0.04968792336506069
-solar thermal,0.10212254705646777
-biomass,0.0009050609530846263
-geothermal,0.20646184340931634
-petroleum,0.0002481964392084222
-natural gas peaker,0.009264875845471076
-lignite,0.0
-offshore wind,0.0
-crude oil,0.0
-heavy or residual fuel oil,0.0
-municipal solid waste,0.0
-hard coal w CCS,0.0
-natural gas combined cycle w CCS,0.0
-biomass w CCS,0.0
-lignite w CCS,0.0
-small modular reactor,0.0
-hydrogen combustion turbine,0.0
-hydrogen combined cycle,0.0
+hard coal,0.011188519315000756
+natural gas steam turbine,0.011188519315000756
+natural gas combined cycle,0.011188519315000756
+nuclear,0.011188519315000756
+hydro,0.011188519315000756
+onshore wind,0.011188519315000756
+solar PV,0.011188519315000756
+solar thermal,0.011188519315000756
+biomass,0.011188519315000756
+geothermal,0.011188519315000756
+petroleum,0.011188519315000756
+natural gas peaker,0.011188519315000756
+lignite,0.011188519315000756
+offshore wind,0.011188519315000756
+crude oil,0.011188519315000756
+heavy or residual fuel oil,0.011188519315000756
+municipal solid waste,0.011188519315000756
+hard coal w CCS,0.011188519315000756
+natural gas combined cycle w CCS,0.011188519315000756
+biomass w CCS,0.011188519315000756
+lignite w CCS,0.011188519315000756
+small modular reactor,0.011188519315000756
+hydrogen combustion turbine,0.011188519315000756
+hydrogen combined cycle,0.011188519315000756
