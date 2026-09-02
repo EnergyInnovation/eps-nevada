@@ -3,22 +3,22 @@ hard coal,9000000000000.0
 natural gas steam turbine,9000000000000.0
 natural gas combined cycle,9000000000000.0
 nuclear,0.0
-hydro,193.15068493150687
-onshore wind,241614.0
-solar PV,7847261.0
+hydro,0.0
+onshore wind,176430.0
+solar PV,1601380.0
 solar thermal,2558000.0
-biomass,100.13046314416177
-geothermal,160000.0
+biomass,100.13
+geothermal,551942.0
 petroleum,9000000000000.0
 natural gas peaker,9000000000000.0
 lignite,0.0
 offshore wind,0.0
 crude oil,0.0
-heavy or residual fuel oil,9000000000000.0
-municipal solid waste,75.3345621007015
+heavy or residual fuel oil,0.0
+municipal solid waste,32.2321
 hard coal w CCS,0.0
 natural gas combined cycle w CCS,0.0
-biomass w CCS,100.13046314416177
+biomass w CCS,0.0
 lignite w CCS,0.0
 small modular reactor,9000000000000.0
 hydrogen combustion turbine,9000000000000.0
